@@ -101,5 +101,6 @@ docs/          STORYBOARD.md (shot by shot, on the bar grid), BRIEF.md (engine A
 
 ## License
 
-The code and the images are © 2026 Tunai, all rights reserved; no open-source license has been chosen. The music,
-*Interstellar Main Theme* by Hans Zimmer, is not part of this repository.
+The source code is released under the [MIT License](LICENSE). The film, its stills (`docs/images/`) and the author's
+renders are © 2026 Tunai, all rights reserved; see [LICENSE-MEDIA.md](LICENSE-MEDIA.md). The music, *Interstellar Main
+Theme* by Hans Zimmer, is not part of this repository.

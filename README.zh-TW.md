@@ -109,4 +109,4 @@ docs/          STORYBOARD.md（依小節格線逐鏡分鏡）、BRIEF.md（引�
 
 ## 授權
 
-程式與畫面 © 2026 Tunai，保留一切權利，目前沒有採用開源授權。配樂〈Interstellar Main Theme〉作者為 Hans Zimmer，不包含在本庫中。
+原始碼採用 [MIT 授權](LICENSE)。影片、劇照（`docs/images/`）以及作者算出的畫面為 © 2026 Tunai，保留一切權利，詳見 [LICENSE-MEDIA.md](LICENSE-MEDIA.md)。配樂〈Interstellar Main Theme〉作者為 Hans Zimmer，不包含在本庫中。
