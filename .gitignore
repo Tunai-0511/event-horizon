@@ -1,0 +1,17 @@
+# dependencies and environments
+node_modules/
+tools/.venv/
+__pycache__/
+
+# renders, caches and simulation output (large; regenerate with the commands in the README)
+out/
+app/data/sim/
+tools/sph/work/
+
+# the soundtrack is copyrighted and not part of this repository
+audio/
+
+# local tooling
+.claude/
+.DS_Store
+*.log

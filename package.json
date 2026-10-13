@@ -1,0 +1,11 @@
+{
+  "name": "event-horizon",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A black hole film computed entirely in fragment shaders (no models): geodesic ray tracing, volumetric gas, procedural sky.",
+  "scripts": {},
+  "dependencies": {
+    "puppeteer-core": "^25.13.0"
+  }
+}
